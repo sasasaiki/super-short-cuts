@@ -31,4 +31,115 @@ class MyClass {
 
         println("$fullName age:$age")
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // moving class
+    val parent = Parent()
+
+    class Child {
+        // TODO:
+    }
+
+    class Parent {
+        val other = Child()
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    fun DoBar(first: String, second: Int) {
+        println(first)
+        println(second)
+    }
+
+    fun DoFoo(first: String, second: Int, third: Int, fourth: Int) {
+        println(first)
+        println(second)
+        println(third)
+        println(fourth)
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    fun longAuguments(first: String, second: Int, third: Int, fourth: Int,fifth: String, sixth: Int, seventh: Int, eighth: Int){
+        println(first)
+        println(second)
+        println(third)
+        println(fourth)
+        println(fifth)
+        println(sixth)
+        println(seventh)
+        println(eighth)
+    }
+
+
 }
+
+
+
