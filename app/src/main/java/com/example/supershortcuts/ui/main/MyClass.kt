@@ -80,16 +80,16 @@ class MyClass {
 
 
 
-    fun DoBar(first: String, second: Int) {
-        println(first)
-        println(second)
+    fun DoBar(argument1: Int, argument2: String) {
+        println(argument2)
+        println(argument1)
     }
 
-    fun DoFoo(first: String, second: Int, third: Int, fourth: Int) {
-        println(first)
-        println(second)
-        println(third)
-        println(fourth)
+    fun DoFoo(argument1: String, argument2: Int, argument3: Int, argument4: Int) {
+        println(argument4)
+        println(argument3)
+        println(argument1)
+        println(argument2)
     }
 
 
