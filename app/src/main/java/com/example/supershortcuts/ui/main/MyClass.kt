@@ -139,6 +139,56 @@ class MyClass {
     }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+    enum class NAME{
+        ABEL
+        ABRAHAM
+        ACHIM
+        ADALBERT
+        ADALBRECHT
+        ADAM
+        ADELBERT
+        ADOLF
+        ADRIAN
+        ALBAN
+        ALBERT
+        ALBRECHT
+        ALEXANDER
+        ALEXIS
+        ALFONS
+    }
+
+//    enum class NAME(val lowerCase:String){
+//        ABEL("abel")
+//        ABRAHAM("abraham")
+//        ACHIM("achim")
+//        ADALBERT("adalbert")
+//        ADALBRECHT("adalbrecht")
+//        ADAM("adam")
+//        ADELBERT("adelbert")
+//        ADOLF("adolf")
+//        ADRIAN("adrian")
+//        ALBAN("alban")
+//        ALBERT("albert")
+//        ALBRECHT("albrecht")
+//        ALEXANDER("alexander")
+//        ALEXIS("alexis")
+//        ALFONS("alfons")
+//    }
+
+
+
 }
 
 
